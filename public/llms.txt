@@ -1,0 +1,89 @@
+# ChibiMe — Generative Engine Optimization Map
+
+> A מוצרים מותאמים אישית business.
+
+---
+
+## Pages
+
+### Home
+https://chibime-4c34796e.zappy5.app
+
+### Process & Story
+https://chibime-4c34796e.zappy5.app/about
+
+### Gallery
+https://chibime-4c34796e.zappy5.app/gallery
+
+### Contact
+https://chibime-4c34796e.zappy5.app/contact
+
+### Products
+https://chibime-4c34796e.zappy5.app/products
+המוצרים שלנו - ChibiMe
+
+### Cart
+https://chibime-4c34796e.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://chibime-4c34796e.zappy5.app/checkout
+תשלום
+
+### Login
+https://chibime-4c34796e.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://chibime-4c34796e.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://chibime-4c34796e.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://chibime-4c34796e.zappy5.app/product/:slug
+פרטי המוצר - ChibiMe
+
+### Category
+https://chibime-4c34796e.zappy5.app/category/:slug
+מוצרים - ChibiMe
+
+## Legal & Policy
+
+### Privacy Policy
+https://chibime-4c34796e.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://chibime-4c34796e.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://chibime-4c34796e.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+# Business Context (for LLM understanding)
+
+## About ChibiMe
+ChibiMe is a business in the מוצרים מותאמים אישית industry.
+
+## Target Audience
+- מחפשי מתנות מותאמות אישית
+- חובבי תרבות פופ
+- מתכנני חתונות
+- רוכשי מתנות עסקיות
+- אספנים
+
+## Industry
+מוצרים מותאמים אישית
+
+---
+
+# Additional Resources
+
+- **Sitemap**: https://chibime-4c34796e.zappy5.app/sitemap.xml
+- **Robots.txt**: https://chibime-4c34796e.zappy5.app/robots.txt

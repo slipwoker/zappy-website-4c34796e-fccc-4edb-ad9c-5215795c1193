@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://chibime-4c34796e.zappy5.app/sitemap.xml
